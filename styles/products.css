@@ -1,0 +1,15 @@
+p {
+    
+    border-inline-start: var(--thickSolid) var(--melon);
+
+}
+
+section h2 {
+
+    text-align: center;
+
+    padding-block-start: 20px;
+
+    font-size: 20px;
+
+}
